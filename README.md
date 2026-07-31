@@ -270,8 +270,11 @@ Next.js • Prisma • PostgreSQL • Clerk
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nayan777pratyush&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayan777pratyush&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nayan777pratyush&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nayan777pratyush&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
@@ -296,43 +299,42 @@ Next.js • Prisma • PostgreSQL • Clerk
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
+# 📈 GitHub Profile Summary
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nayan777pratyush&theme=algolia&no-frame=true&no-bg=true&column=4"/>
-</p>
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayan777pratyush&theme=github_dark"/>
+
+</p>
 
 ---
 
+
 # 📌 Featured Repositories
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/nayan777pratyush/QuickAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nayan777pratyush&repo=QuickAI&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nayan777pratyush&repo=QuickAI&theme=github_dark"/>
 </a>
 
 <a href="https://github.com/nayan777pratyush/MERN-Auth">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nayan777pratyush&repo=MERN-Auth&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nayan777pratyush&repo=MERN-Auth&theme=github_dark"/>
 </a>
 
-</div>
+</p>
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/nayan777pratyush/MeetFlow-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nayan777pratyush&repo=MeetFlow-AI&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nayan777pratyush&repo=MeetFlow-AI&theme=github_dark"/>
 </a>
 
 <a href="https://github.com/nayan777pratyush/PratyushLMS.">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nayan777pratyush&repo=LMS-Platform&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nayan777pratyush&repo=PratyushLMS.&theme=github_dark"/>
 </a>
 
-</div>
+</p>
 
 ---
 
@@ -381,7 +383,7 @@ Next.js • Prisma • PostgreSQL • Clerk
 
 🥈 **2nd Prize** — ALGORHYTHM 3.0 (HackerRank Coding Contest)
 
-♟️ **Chess Champion**
+### ♟️ **Chess Champion**
  -🥇 1st Place (2023)
  -🥇 1st Place (2024)
  -🥈 2nd Place (2025)
@@ -489,7 +491,7 @@ Competitive Programming  ███████████████░░░�
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=4000&pause=1000&center=true&vCenter=true&color=3B82F6&width=700&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+amazing+together!;Happy+Coding!+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&center=true&vCenter=true&width=700&height=45&color=3B82F6&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+awesome+together!;Happy+Coding!+🚀" />
 
 <br><br>
 
