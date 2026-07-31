@@ -28,6 +28,10 @@ Building scalable software, intelligent AI applications, and solving real-world 
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
+<a href="https://github.com/nayan777pratyush">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </div>
 
 ---
@@ -40,8 +44,12 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 💡 Passionate about building **production-ready software** and **AI-powered applications**
 
+🧠 I enjoy solving challenging algorithmic problems using **C++**, designing scalable backend systems, and building modern AI-powered applications.
+
 🌱 Currently exploring
 
+- Advanced C++
+- Data Structures & Algorithms
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - Multi-Agent AI Systems
@@ -59,14 +67,16 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 # 💻 Programming Proficiency
 
-| Language | Level |
-|----------|-------|
-| **C++** | ⭐⭐⭐⭐☆ |
-| **JavaScript** | ⭐⭐⭐☆☆ |
-| **Python** | ⭐⭐☆☆☆ |
-| **TypeScript** | ⭐⭐☆☆☆ |
-| **C** | ⭐⭐☆☆☆ |
-| **SQL** | ⭐⭐☆☆☆ |
+| Language |Proficiency |
+|----------|------------|
+| 🟦 **C++** | ⭐⭐⭐⭐☆ |
+| 🟨 **JavaScript** | ⭐⭐⭐☆☆ |
+| 🟦 **TypeScript** | ⭐⭐⭐☆☆|
+| 🔵 **C** | ⭐⭐⭐☆☆|
+| 🟧 **SQL** |⭐⭐⭐☆☆ |
+| 🟦 **Python** | ⭐⭐☆☆☆ |
+| 🟦 **C#** | ⭐⭐☆☆☆ |
+| 🟦 **Java** | ⭐⭐☆☆☆ |
 
 ---
 
@@ -76,7 +86,7 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,c#"/>
 
 </p>
 
@@ -261,9 +271,9 @@ Next.js • Prisma • PostgreSQL • Clerk
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nayan777pratyush&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayan777pratyush&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -273,7 +283,7 @@ Next.js • Prisma • PostgreSQL • Clerk
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=nayan777pratyush&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -283,7 +293,7 @@ Next.js • Prisma • PostgreSQL • Clerk
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nayan777pratyush&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -293,7 +303,7 @@ Next.js • Prisma • PostgreSQL • Clerk
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nayan777pratyush&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
@@ -303,24 +313,24 @@ Next.js • Prisma • PostgreSQL • Clerk
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/QuickAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=QuickAI&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/nayan777pratyush/QuickAI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nayan777pratyush&repo=QuickAI&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/MERN-Auth">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=MERN-Auth&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/nayan777pratyush/MERN-Auth">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nayan777pratyush&repo=MERN-Auth&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/MeetFlow-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=MeetFlow-AI&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/nayan777pratyush/MeetFlow-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nayan777pratyush&repo=MeetFlow-AI&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/LMS-Platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=LMS-Platform&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/nayan777pratyush/LMS-Platform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nayan777pratyush&repo=LMS-Platform&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -334,7 +344,7 @@ Next.js • Prisma • PostgreSQL • Clerk
 | Platform | Link |
 |----------|------|
 | 🧩 LeetCode | https://leetcode.com/u/pratyushbhattacharya7/ |
-| 💼 LinkedIn | https://www.linkedin.com/in/pratyush-bhattacharya/ |
+| 💼 HackerRank | https://www.hackerrank.com/profile/pratyushbhattac2 |
 | 🌐 Portfolio | https://my-portfolio-pratyush.vercel.app/ |
 
 </div>
@@ -373,9 +383,9 @@ Next.js • Prisma • PostgreSQL • Clerk
 🥈 **2nd Prize** — ALGORHYTHM 3.0 (HackerRank Coding Contest)
 
 ♟️ **Chess Champion**
-- 🥇 1st Place (2023)
-- 🥇 1st Place (2024)
-- 🥈 2nd Place (2025)
+ 🥇 1st Place (2023)
+ 🥇 1st Place (2024)
+ 🥈 2nd Place (2025)
 
 </div>
 
@@ -444,7 +454,7 @@ Competitive Programming  ███████████████░░░�
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/nayan777pratyush/nayan777pratyush/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -468,7 +478,7 @@ Competitive Programming  ███████████████░░░�
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:pratyushbhattacharya7@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
