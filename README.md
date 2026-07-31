@@ -20,7 +20,7 @@ Building scalable software, intelligent AI applications, and solving real-world 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:pratyushbhattacharya7@gmail.con">
+<a href="mailto:pratyushbhattacharya7@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -38,7 +38,7 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 # 🚀 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBrM2VhNXQ3OTNnMzh5bXd4aW4yb2VvZnFkcjl3cHpmcW9paWd4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 🎓 Computer Science Undergraduate at **REVA University**
 
@@ -86,7 +86,7 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,c#"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,cs"/>
 
 </p>
 
@@ -269,13 +269,10 @@ Next.js • Prisma • PostgreSQL • Clerk
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nayan777pratyush&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayan777pratyush&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nayan777pratyush&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayan777pratyush&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
@@ -303,7 +300,9 @@ Next.js • Prisma • PostgreSQL • Clerk
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nayan777pratyush&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nayan777pratyush&theme=algolia&no-frame=true&no-bg=true&column=4"/>
+</p>
 
 </div>
 
@@ -329,7 +328,7 @@ Next.js • Prisma • PostgreSQL • Clerk
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nayan777pratyush&repo=MeetFlow-AI&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/nayan777pratyush/LMS-Platform">
+<a href="https://github.com/nayan777pratyush/PratyushLMS.">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nayan777pratyush&repo=LMS-Platform&theme=tokyonight&hide_border=true"/>
 </a>
 
@@ -383,9 +382,9 @@ Next.js • Prisma • PostgreSQL • Clerk
 🥈 **2nd Prize** — ALGORHYTHM 3.0 (HackerRank Coding Contest)
 
 ♟️ **Chess Champion**
- 🥇 1st Place (2023)
- 🥇 1st Place (2024)
- 🥈 2nd Place (2025)
+ -🥇 1st Place (2023)
+ -🥇 1st Place (2024)
+ -🥈 2nd Place (2025)
 
 </div>
 
