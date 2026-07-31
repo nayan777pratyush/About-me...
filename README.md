@@ -1,5 +1,11 @@
 # Hi there 👋, I'm Pratyush Bhattacharya
 
+
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch-Demo-blue?style=for-the-badge)](./cmp_stu.mp4)
+
+
+
+
 > *"Building scalable software with C++, modern web technologies, and AI while solving real-world problems."* 🚀
 
 
